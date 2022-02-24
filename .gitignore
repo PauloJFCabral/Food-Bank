@@ -21,3 +21,4 @@ robot/Food-Bank/results/
 
 # Misc
 .DS_Store
+.dccache
